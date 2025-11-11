@@ -1,5 +1,5 @@
 # Pet Info Functions
-> Note that you have to be holding the item for these to work
+> Note that you have to be holding a full Mob Catcher for these to work
 
 ```js
 /**
