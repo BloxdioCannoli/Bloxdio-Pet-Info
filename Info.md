@@ -1,4 +1,6 @@
 # Mobs' Favorite Foods
+> The **<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food** is randomly decided from the **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot** list *per pet*.
+
 
 ## Pig
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
