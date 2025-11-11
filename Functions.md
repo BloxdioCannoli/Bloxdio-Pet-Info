@@ -54,8 +54,11 @@ function getCaughtMobPetInfo(myId, setting) {
 ```
 
 # Get max pet
-```
-setCaughtMobPetInfo(myId, "friendshipPoints", 10000000)
-setCaughtMobPetInfo(myId, "lastFedAt", api.now()-1000000)
-setCaughtMobPetInfo(myId, "superlikedFoodKnown", true)
+> You must define the `setCaughtMobPetInfo` function *and* hold the caught mob of your choice
+
+> You need to feed the mob to activate the perks
+```js
+setCaughtMobPetInfo(myId, "friendshipPoints", 10000000) // Max friendship level
+setCaughtMobPetInfo(myId, "lastFedAt", api.now()-1000000) // So you can feed it once
+setCaughtMobPetInfo(myId, "superlikedFoodKnown", true) // The favorite food is known
 ```
