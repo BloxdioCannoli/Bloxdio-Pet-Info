@@ -12,22 +12,22 @@
  */
 
 function setCaughtMobPetInfo(myId, setting, value) {
-try {
-let held = api.getHeldItem(myId)?.attributes
-held.customAttributes.mobSettings.petInfo[setting]=value
+  try {
+    let held = api.getHeldItem(myId)?.attributes
+    held.customAttributes.mobSettings.petInfo[setting]=value
 
-let name=api.getHeldItem(myId).name
+    let name=api.getHeldItem(myId).name
 
-api.removeItemName(myId, api.getHeldItem(myId).name, 1)
-api.giveItem(myId, name, 1, {customAttributes: {
+    api.removeItemName(myId, api.getHeldItem(myId).name, 1)
+    api.giveItem(myId, name, 1, {customAttributes: {
 
-dbId: held.customAttributes.dbId,
-health: held.customAttributes.health,
-mobSettings: held.customAttributes.mobSettings,
+      dbId: held.customAttributes.dbId,
+      health: held.customAttributes.health,
+      mobSettings: held.customAttributes.mobSettings,
 
-version: 1,
+      version: 1,
 
-}})
-} catch(err) {api.log("Error"+err)}
+    }})
+  } catch(err) {api.log("Error"+err)}
 }
 ```
