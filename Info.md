@@ -4,6 +4,9 @@
 
 
 ## Pig
+**<img height="15" alt="pig" src="https://github.com/user-attachments/assets/67418389-a2c7-4042-ade7-d371e4010afb" /> Tame with**
+`Apple`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Plum`, `Cracked Coconut`, `Pumpkin Pie`, `Bowl of Rice`, `Melon Slice`, `Gold Melon Slice`, `Corn`, `Bowl of Cranberries`, `Mushroom Soup`, `Chili Pepper`, `Carrot`, `Beetroot`, `Raw Potato`, `Baked Potato`
 
@@ -16,6 +19,9 @@
 ---
 
 ## Cow
+**<img height="15" alt="cow" src="https://github.com/user-attachments/assets/25cfe4ec-5122-4c77-9162-4fd9d60f9d5b" /> Tame with**
+`Apple`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Apple`, `Wheat`, `Pear`, `Cherry`, `Melon Slice`, `Gold Melon Slice`, `Bread`, `Corn`, `Bowl of Cranberries`, `Mushroom Soup`, `Carrot`, `Beetroot`, `Raw Potato`, `Baked Potato`
 
@@ -28,6 +34,9 @@
 ---
 
 ## Sheep
+**<img height="15" alt="sheep" src="https://github.com/user-attachments/assets/2b69469c-9ad9-463f-8ef1-c930dc437c27" /> Tame with**
+`Apple`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Apple`, `Wheat`, `Bread`, `Corn`, `Banana`, `Pear`, `Cherry`, `Carrot`, `Beetroot`, `Raw Potato`, `Baked Potato`, `Plum`
 
@@ -40,6 +49,9 @@
 ---
 
 ## Horse
+**<img height="15" alt="horse" src="https://github.com/user-attachments/assets/f76ba5a1-89aa-4d58-8ffd-c1ea39246867" /> Tame with**
+`Apple`, `Wheat`, `Saddle`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Apple`, `Wheat`, `Pear`, `Cherry`, `Melon Slice`, `Gold Melon Slice`, `Bread`, `Corn`, `Bowl of Cranberries`, `Mushroom Soup`, `Plum`, `Carrot`, `Beetroot`
 
@@ -52,6 +64,9 @@
 ---
 
 ## Deer
+**<img height="15" alt="deer" src="https://github.com/user-attachments/assets/142ff327-e108-4212-a606-5ebd88793428" /> Tame with**
+`Cherry`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Plum`, `Mushroom Soup`, `Bowl of Cranberries`, `Apple`, `Cherry`, `Corn`, `Carrot`, `Beetroot`, `Wheat`, `Banana`, `Pear`
 
@@ -64,6 +79,9 @@
 ---
 
 ## Wolf
+**<img height="15" alt="wolf" src="https://github.com/user-attachments/assets/19c459e6-60f8-4d2c-a266-c185fd132749" /> Tame with**
+`Bone`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Watermelon Slice`, `Gold Watermelon Slice`, `Bread`, `Pumpkin Pie`, `Bowl of Rice`, `Cracked Coconut`, `Baked Potato`, `Rotten Brain`
 
@@ -76,6 +94,9 @@
 ---
 
 ## Wildcat
+**<img height="15" alt="wildcat" src="https://github.com/user-attachments/assets/e0dee6c5-f563-4833-b0d6-6d852745b5e2" /> Tame with**
+`Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`
+
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Banana`, `Baked Potato`, `Rotten Brain`
 
