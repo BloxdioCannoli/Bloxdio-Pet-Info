@@ -16,6 +16,7 @@
 
 ## Sheep
 **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot**
+`Apple`, `Wheat``, Bread`, `Corn``, Banana``, `Pear`, `Cherry`, `Carrot`, `Beetroot`, `Raw Potato`, `Baked Potato`, `Plum`
 
 **<img height="15" alt="heart_likes a little" src="https://github.com/user-attachments/assets/4f99517e-33f2-42a6-9779-61cb5e94a9fe" /> Likes a Little**
 
