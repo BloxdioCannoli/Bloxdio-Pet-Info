@@ -35,26 +35,13 @@ function setCaughtMobPetInfo(myId, setting, value) {
  * Get things like friendship level
  * @param {PlayerId} myId
  * @param {String} setting - See above list for supported settings
- * @returns {void}
+ * @returns {Any}
  */
 
 function getCaughtMobPetInfo(myId, setting) {
   try {
     let held = api.getHeldItem(myId)?.attributes
-    held.customAttributes.mobSettings.petInfo[setting]=value
-
-    let name=api.getHeldItem(myId).name
-
-    api.removeItemName(myId, api.getHeldItem(myId).name, 1)
-    api.giveItem(myId, name, 1, {customAttributes: {
-
-      dbId: held.customAttributes.dbId,
-      health: held.customAttributes.health,
-      mobSettings: held.customAttributes.mobSettings,
-
-      version: 1,
-
-    }})
+    return held.customAttributes.mobSettings.petInfo[setting]
   } catch(err) {api.log("Error"+err)}
 }
 ```
