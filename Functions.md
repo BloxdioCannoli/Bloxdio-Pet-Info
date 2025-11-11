@@ -1,10 +1,8 @@
 # Pet Info Functions
-> Modify things like friendship level
 
 ```js
-
 /**
- * Get position of a player / entity.
+ * Modify things like friendship level
  * @param {PlayerId} myId
  * @param {String} setting - See above list for supported settings
  * @param {Any} value
