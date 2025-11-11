@@ -1,3 +1,6 @@
+# Supported petInfo
+`friendShipPoints`, `lastFedAt`, `highestFriendshipLevelReached`, `superlikedFood`, `superlikedFoodKnown`, `bonusesGained`
+
 # Pet Info Functions
 > Note that you have to be holding a full Mob Catcher for these to work
 
