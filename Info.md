@@ -62,6 +62,7 @@
 
 
 ## Pig
+### Food Preferences
 **<img height="15" alt="pig" src="https://github.com/user-attachments/assets/67418389-a2c7-4042-ade7-d371e4010afb" /> Tame with**
 `Apple`
 
@@ -74,6 +75,8 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Banana`, `Rotten Brain`
 
+
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
@@ -93,6 +96,7 @@
 ---
 
 ## Cow
+### Food Preferences
 **<img height="15" alt="cow" src="https://github.com/user-attachments/assets/25cfe4ec-5122-4c77-9162-4fd9d60f9d5b" /> Tame with**
 `Apple`
 
@@ -105,6 +109,8 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Rotten Brain`
 
+
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
@@ -123,6 +129,7 @@
 ---
 
 ## Sheep
+### Food Preferences
 **<img height="15" alt="sheep" src="https://github.com/user-attachments/assets/2b69469c-9ad9-463f-8ef1-c930dc437c27" /> Tame with**
 `Apple`
 
@@ -135,6 +142,8 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Bowl of Cranberries`, `Mushroom Soup`, `Rotten Brain`, `Cracked Coconut`
 
+
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
@@ -153,6 +162,7 @@
 ---
 
 ## Horse
+### Food Preferences
 **<img height="15" alt="horse" src="https://github.com/user-attachments/assets/f76ba5a1-89aa-4d58-8ffd-c1ea39246867" /> Tame with**
 `Apple`, `Wheat`, `Saddle`
 
@@ -165,6 +175,8 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Rotten Brain`
 
+
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
@@ -183,6 +195,7 @@
 ---
 
 ## Deer
+### Food Preferences
 **<img height="15" alt="deer" src="https://github.com/user-attachments/assets/142ff327-e108-4212-a606-5ebd88793428" /> Tame with**
 `Cherry`
 
@@ -195,6 +208,7 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Rotten Brain`, `Pumpkin Pie`
 
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
@@ -213,6 +227,7 @@
 ---
 
 ## Wolf
+### Food Preferences
 **<img height="15" alt="wolf" src="https://github.com/user-attachments/assets/19c459e6-60f8-4d2c-a266-c185fd132749" /> Tame with**
 `Bone`
 
@@ -225,6 +240,7 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Pear`, `Cherry`, `Banana`, `Mushroom Soup`, `Plum`
 
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
@@ -243,6 +259,7 @@
 ---
 
 ## Wildcat
+### Food Preferences
 **<img height="15" alt="wildcat" src="https://github.com/user-attachments/assets/e0dee6c5-f563-4833-b0d6-6d852745b5e2" /> Tame with**
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`
 
@@ -255,6 +272,7 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Apple`, `Wheat`, `Pear`, `Cherry`, `Bowl of Rice`, `Melon Slice`, `Gold Melon Slice`, `Chili Pepper`, `Cracked Coconut`
 
+### Friendship Perks
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
 <details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
 
