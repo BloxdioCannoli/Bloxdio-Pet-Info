@@ -1,3 +1,9 @@
+> [!INFO]
+> Use this to study the perks of pets before taming and maximize your friendship levels!
+
+> [!TIP]
+> The docs make use of key formatting. Make sure **[ℹ️ info]** and **[💡 tips]** carefully and click **▶ dropdowns** for more info!
+
 # Info
 - This contains things regarding the new items, friendship points/levels, and more!
 - Update video by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) at: https://youtube.com/shorts/jEHv6JpJ4QA
