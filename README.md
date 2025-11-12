@@ -2,7 +2,7 @@
 > Use this to study the perks of pets before taming and maximize your friendship levels!
 
 > [!TIP]
-> The docs make use of key formatting. Make sure **[ℹ️ Note]**s and **[💡 Tip]**s carefully and click **▶ dropdowns** for more info!
+> The docs make use of key formatting. Make sure <b>[ℹ️ Note]</b>s and <b>[💡 Tip]</b>s carefully and click **▶ dropdowns** for more info!
 
 # Info
 - This contains things regarding the new items, friendship points/levels, and more!
