@@ -8,31 +8,39 @@
 
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes** -1 Friendship Point
 
+---
+
 ## Friendship Points per Level
 
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 0** 0-9 Friendship Points (0-9 in total)
+
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
-<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1** 10 Friendship Points (10 in total)
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1** 10-99 Friendship Points (10-99 in total)
 
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
-<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2** 100 Friendship Points (110 in total)
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2** 100-199 Friendship Points (110-309 in total)
 
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
-<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3** 200 Friendship Points (310 in total)
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3** 200-499 Friendship Points (310-809 in total)
 
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
-<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4** 500 Friendship Points (810 in total)
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4** 500-999 Friendship Points (810-1809 in total)
 
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
