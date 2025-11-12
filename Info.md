@@ -1,4 +1,47 @@
-# Mobs Food Info
+# Leveling Info
+## Food Perks
+**<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food** +4 Friendship Points
+
+**<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot** +2 Friendship Points
+
+**<img height="15" alt="heart_likes a little" src="https://github.com/user-attachments/assets/4f99517e-33f2-42a6-9779-61cb5e94a9fe" /> Likes a Little** +1 Friendship Points
+
+**<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes** -1 Friendship Point
+
+## Friendship Points per Level
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1** 10 Friendship Points (10 in total)
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2** 100 Friendship Points (110 in total)
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3** 200 Friendship Points (310 in total)
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4** 500 Friendship Points (810 in total)
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />
+<img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5** 1000 Friendship Points (1810 in total)
+
+
+# Mob Info
 > [!NOTE]
 > The **<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food** is randomly decided from the **<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot** list *per pet*.
 
