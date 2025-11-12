@@ -56,6 +56,10 @@
 > [!TIP]
 > The best way to determine a mob's favorite food is with controlled trial and error. Get all of the items a pet likes a lot, then feed it each item one-by-one!
 
+> [!NOTE]
+> All friendship perks (besides level 4) are repeated across levels.
+> The format is: `Renaming`, `Special Drop`, `Level 1 Unique Perk`, `Unique Painting`, `Level 2 Unique Perk`
+
 
 ## Pig
 **<img height="15" alt="pig" src="https://github.com/user-attachments/assets/67418389-a2c7-4042-ade7-d371e4010afb" /> Tame with**
@@ -69,6 +73,22 @@
 
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Banana`, `Rotten Brain`
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Truffle when fed. Craft Truffle into Truffle Oil to bounce on every block as if it is a fat mushroom.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Double Poop</summary> Produces double the amount of common drops when fed.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="pig" src="https://github.com/user-attachments/assets/40c827e1-2f1d-42c0-80fb-22a78e16286f" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Feed Aura</summary> All other pets give bonus Aura when fed. <i>Only applies while this pet is full.</i></details>
+
 
 ---
 
@@ -85,6 +105,21 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Rotten Brain`
 
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Cow's Milk when fed. Craft Cow's Milk into Cheese to get Air Walking and float in the air instead of falling.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Self Yield</summary> Produces double the amount of special food when fed.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="cow" src="https://github.com/user-attachments/assets/379b582e-325a-4b54-80bc-0a8441779200" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Mob Yield</summary> All other pets drop more when fed. <i>Only applies while this pet is full.</i></details>
+
 ---
 
 ## Sheep
@@ -99,6 +134,21 @@
 
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Bowl of Cranberries`, `Mushroom Soup`, `Rotten Brain`, `Cracked Coconut`
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Sheep's Milk when fed. Craft Sheep's Milk into Yoghurt Pot to get Lifesteal and take health from players on hit.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Rainbow Wool</summary> Grows a random wool color every time it is sheared.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="sheep" src="https://github.com/user-attachments/assets/01f5afa2-c3c4-4523-bda3-5f18bcac04dc" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Mob Slayer</summary> Deal increased damage against mobs. <i>Only applies while this pet is full.</i></details>
 
 ---
 
@@ -115,6 +165,21 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Rotten Brain`
 
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Oats when fed. Craft Oats into Porridge to get Wall Climbing.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Riding Speed +</summary> Gets a faster riding speed of 5.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="horse" src="https://github.com/user-attachments/assets/ff626988-676d-461c-b682-74f0fb798a6e" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Friends :D</summary> All other pets give bonus friendship points when fed. <i>Only applies while this pet is full.</i></details>
+
 ---
 
 ## Deer
@@ -129,6 +194,21 @@
 
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Raw Porkchop`, `Raw Beef`, `Raw Mutton`, `Raw Venison`, `Cooked Porkchop`, `Steak`, `Cooked Mutton`, `Cooked Venison`, `Rotten Flesh`, `Chili Pepper`, `Rotten Brain`, `Pumpkin Pie`
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Acorn when fed. Craft Acorn into Acorn Jelly to get 2:00 of Mining Haste.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Thorns</summary> Deals recoil damage when attacked.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="deer" src="https://github.com/user-attachments/assets/99b0f2d4-0aa1-4caf-b32d-07a354046502" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Antlers</summary> Grows antlers and becomes agressive. <i>Only applies while this pet is full.</i></details>
 
 ---
 
@@ -145,6 +225,21 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Pear`, `Cherry`, `Banana`, `Mushroom Soup`, `Plum`
 
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Meaty Bone when fed. Craft Meaty Bone into Blinding Pebbles to give enemies 0:10 of Blindness.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Max Health +</summary> Gets increased maximum health.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="wolf" src="https://github.com/user-attachments/assets/c18df2dc-afd8-4dd1-8c94-50c6af8042cf" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Pack Leader</summary> All other wolves deal 20% extra damage. <i>Only applies while this pet is full.</i></details>
+
 ---
 
 ## Wildcat
@@ -159,3 +254,18 @@
 
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes**  
 `Apple`, `Wheat`, `Pear`, `Cherry`, `Bowl of Rice`, `Melon Slice`, `Gold Melon Slice`, `Chili Pepper`, `Cracked Coconut`
+
+**<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 1**<br>
+<details> <summary>Renaming</summary> Can be renamed using a Name Tag.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 2**<br>
+<details> <summary>Special Drops</summary> Drops Caught Fish when fed. Craft into Fish Fillet to get Pickpocketing and steal items not on a player's hotbar or armor slots on hit.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 3**<br>
+<details> <summary>Double Poop</summary> Produces double the amount of common drops when fed.</details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" /> Level 4**<br>
+<details> <summary>Painting</summary> Gifts a painting of your pet. <br> <img width="200" alt="wildcat" src="https://github.com/user-attachments/assets/1739cb79-f923-45d5-9e58-4b6c39bb710e" /> </details>
+
+**<img height=15 alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> <img height=15 alt="friendship_level empty" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" /> Level 5**<br>
+<details> <summary>Poisoned Claws</summary> Has a chance of applying Poision when attacking.<i>Only applies while this pet is full.</i></details>
