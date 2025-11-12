@@ -4,9 +4,13 @@
 
 
 # Index
+## Info
 - [Pig](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#pig)
 - [Cow](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#cow)
 - [Sheep](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#sheep)
 - [Deer](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#deer)
 - [Wolf](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#wolf)
 - [Wildcat](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#wildcat)
+
+## Code
+- [Get max pet](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Functions.md#get-max-pet)
