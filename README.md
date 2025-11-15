@@ -4,9 +4,13 @@
 > [!TIP]
 > The docs make use of key formatting. Make sure <b>[ℹ️ Note]</b>s and <b>[💡 Tip]</b>s carefully and click **▶ dropdowns** for more info!
 
+# Usage
+All of the information here can be discovered by playing Bloxd. Feel free to use any __information__ without credit. You may not, however, copy or repost the direct documentation or videos featured in or of the documentation without proper credit. Credit is appreciated but not required when taking inspiration! Videos that give credit are featured in `FeaturedVideos.md`
+
 # Info
 - This contains things regarding the new items, friendship points/levels, and more!
-- All videos by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) at: https://youtube.com/shorts/jEHv6JpJ4QA
+- All videos in `Info.md` are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/).
+- Update announcement at https://youtube.com/shorts/jEHv6JpJ4QA
 
 
 # Index
