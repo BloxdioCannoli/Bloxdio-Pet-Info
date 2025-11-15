@@ -12,6 +12,7 @@
 # Index
 ## Info
 - [Pig](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#pig)
+  - <i>[Summary Video](https://www.youtube.com/shorts/tuhtZEYQMEI)</i>
 - [Cow](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#cow)
 - [Sheep](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#sheep)
 - [Deer](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#deer)
