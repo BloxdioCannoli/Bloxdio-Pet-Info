@@ -6,7 +6,7 @@
 
 # Info
 - This contains things regarding the new items, friendship points/levels, and more!
-- Update video by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) at: https://youtube.com/shorts/jEHv6JpJ4QA
+- All videos by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) at: https://youtube.com/shorts/jEHv6JpJ4QA
 
 
 # Index
