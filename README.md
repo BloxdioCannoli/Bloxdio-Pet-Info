@@ -4,7 +4,7 @@
 > [!TIP]
 > The docs make use of key formatting. Make sure <b>[ℹ️ Note]</b>s and <b>[💡 Tip]</b>s carefully and click **▶ dropdowns** for more info!
 
-# Usage
+# Usage (Read if planning to use these docs)
 All of the information here can be discovered by playing Bloxd. Feel free to use any __information__ without credit. You may not, however, copy or repost the direct documentation or videos featured in or of the documentation without proper credit. Credit is appreciated but not required when taking inspiration! Videos that give credit are featured in `FeaturedVideos.md`. Here are some examples:
 
 | Do This | Not This |
