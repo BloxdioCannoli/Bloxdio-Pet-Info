@@ -68,7 +68,7 @@
 - ∞ Hours
 - ∞ Days
 
-## Friendship Points per Level
+# Friendship Points per Level
 
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
 <img height="15" alt="friendship_level empty" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
