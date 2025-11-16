@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Thank you to [@GGbong1000](https://www.youtube.com/@GGbong1000) for providing additional multiplier info!
+
 > [!NOTE]
 > Use this to study the perks of pets before taming and maximize your friendship levels!
 
@@ -22,6 +25,8 @@ In the video: Mention my channel (no @ needed) and my docs for more than 5 secon
 # Info
 - This contains things regarding the new items, friendship points/levels, and more!
 - All videos in `Info.md` are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/).
+- All information and coders are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) if not otherwise specified.
+- Multiplier info by [@GGbong1000](https://www.youtube.com/@GGbong1000)!
 - Update announcement at https://youtube.com/shorts/jEHv6JpJ4QA
 
 
