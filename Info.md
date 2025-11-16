@@ -1,3 +1,6 @@
+> [!NOTE]
+> Feeding a pet completely refills their hunger. The amount of drops given by your pet are not affected by food preference or hunger.
+
 # Leveling Bonuses
 ## Food Perks
 **<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food** +4 Friendship Points
