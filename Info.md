@@ -11,7 +11,7 @@
 ## Hunger Multipliers
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
-<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />Full** N/A
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /> Full** N/A
 
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
