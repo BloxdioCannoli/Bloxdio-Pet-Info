@@ -28,21 +28,21 @@
 
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
-<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /> Full** for 2:30.
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /> Full** for 2:30
 - 2.5 Minutes
 - 0.04 Hours
 - 0.001 Days
 
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
-<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Peckish** for 7:57:30.
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Peckish** for 7:57:30
 - 477.5 Minutes
 - 7.9 Hours
 - 0.32 Days
 
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
-<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Hungry** for 63:59:59.
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Hungry** for 63:59:59
 - 3839.9 Minutes
 - 63.9 Hours
 - 2.6 Days
