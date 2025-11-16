@@ -31,7 +31,11 @@ In the video: Mention my channel (no @ needed) and my docs for more than 5 secon
 
 
 # Index
-## Info
+## Other Info
+- [Leveling Bonuses](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#leveling-bonuses)
+- [Hunger Durations](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#hunger-durations)
+- [Friendship Points per Level](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#friendship-points-per-level)
+## Animal Info
 - [Pig](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#pig)
   - <i>[Overview Video](https://www.youtube.com/shorts/tuhtZEYQMEI)</i>
 - [Cow](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#cow)
