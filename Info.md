@@ -24,6 +24,24 @@
 
 ---
 
+# Hunger Durations
+
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /> Full** for 2:30. <ins>2.5 Minutes</ins>
+
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Peckish** for 7:57:30. <ins>477.5 Minutes</ins>
+
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Hungry** for 63:59:59. <ins>3839.9 Minutes</ins>
+
+**<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** No level below Starving
+
 ## Friendship Points per Level
 
 **<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/08e2735d-8f1b-4990-958d-147dee5a6905" />
