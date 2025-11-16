@@ -33,12 +33,19 @@ In the video: Mention my channel (no @ needed) and my docs for more than 5 secon
 # Index
 ## Info
 - [Pig](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#pig)
-  - <i>[Summary Video](https://www.youtube.com/shorts/tuhtZEYQMEI)</i>
+  - <i>[Overview Video](https://www.youtube.com/shorts/tuhtZEYQMEI)</i>
 - [Cow](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#cow)
+  - <i>[Overview Video](https://www.youtube.com/shorts/W0o9V1CHyh0)</i>
 - [Sheep](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#sheep)
+  - <i>[Overview Video]()</i> None
 - [Deer](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#deer)
+  - <i>[Overview Video]()</i> None
+- [Horse](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#horse)
+  - <i>[Overview Video](https://www.youtube.com/shorts/Cd_K4sfpVq4)</i>
 - [Wolf](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#wolf)
+  - <i>[Overview Video](https://www.youtube.com/shorts/8lb53ETrxlc)</i>
 - [Wildcat](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Info.md#wildcat)
+  - <i>[Overview Video](https://www.youtube.com/shorts/0QxCWm6rGLw)</i>
 
 ## Code
 - [Get max pet](https://github.com/BloxdioCannoli/Bloxdio-Pet-Info/blob/main/Functions.md#get-max-pet)
