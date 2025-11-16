@@ -9,6 +9,9 @@
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes** -1 Friendship Point
 
 ## Hunger Multipliers
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
+<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />Full** N/A
 
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
@@ -22,13 +25,16 @@
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** x15 Positive Friendship Points -5 Friendship Points
 
-## Table
-&nbsp;        |Dislikes|Likes a Little|Likes a Lot|Favorite Food|
+## Friendship Points Table
+> [!NOTE]
+> This information has been calculated from the previous data points. No truly new info has been added.
+
+<img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />        |<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes|<img height="15" alt="heart_likes a little" src="https://github.com/user-attachments/assets/4f99517e-33f2-42a6-9779-61cb5e94a9fe" /> Likes a Little|<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot|<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food|
 --------------|--------|--------------|-----------|-------------|
-**Full**      |   N/A  |    N/A       |  N/A      |  N/A        |
-**Peckish**   |   -1   |    +1        |  +2       |  +4         |
-**Hungry**    |   -1   |    +15       |  +30      |  +60        |
-**Starving**  |   -6   |    +10       |  +25      |  +55        |
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /> Full**      |   N/A  |    N/A       |  N/A      |  N/A        |
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Peckish**   |   -1   |    +1        |  +2       |  +4         |
+**<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Hungry**    |   -1   |    +15       |  +30      |  +60        |
+**<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving**  |   -6   |    +10       |  +25      |  +55        |
 
 ---
 
