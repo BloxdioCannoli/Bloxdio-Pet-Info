@@ -8,7 +8,7 @@
 
 **<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes** -1 Friendship Point
 
-## Multipliers
+## Hunger Multipliers
 
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
 <img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" />
