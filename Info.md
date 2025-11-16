@@ -27,7 +27,7 @@
 
 ## Friendship Points Table
 > [!NOTE]
-> This information has been calculated from the previous data points. No truly new info has been added.
+> This information in the table has been calculated from the previous data points. No truly new info has been added below.
 
 <img height="15" alt="friendship_level full" src="https://github.com/user-attachments/assets/f830260c-cda5-4803-a209-eda4ad38ad88" />        |<img height="15" alt="heart_dislikes" src="https://github.com/user-attachments/assets/188fa56f-6d32-4809-b288-67596a10484d" /> Dislikes|<img height="15" alt="heart_likes a little" src="https://github.com/user-attachments/assets/4f99517e-33f2-42a6-9779-61cb5e94a9fe" /> Likes a Little|<img height="15" alt="heart_likes a lot" src="https://github.com/user-attachments/assets/91551555-700a-4c46-a143-721fa05bcf30" /> Likes a Lot|<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food|
 --------------|--------|--------------|-----------|-------------|
