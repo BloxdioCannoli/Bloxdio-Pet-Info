@@ -17,6 +17,9 @@ All of the information here can be discovered by playing Bloxd. Feel free to use
 | Looking at the docs and making an<br>inspired video without giving credit.<br><b>Though I do encourage credit!<b> | |
 | Looking at the docs and making<br>an inspired video with my username in<br>the title. | |
 
+## Additional Notes:
+If using specific sections, you are also required to credit the contributer for that section. If no contributer is listed in that section, I have contributed and no additional credit is needed.
+
 ## To give credit:
 In the title, description, and/or pinned comment: @mention my channel, link to these docs
 **or**
@@ -25,7 +28,7 @@ In the video: Mention my channel (no @ needed) and my docs for more than 5 secon
 # Info
 - This contains things regarding the new items, friendship points/levels, and more!
 - All videos in `Info.md` are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/).
-- All information and coders are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) if not otherwise specified.
+- All information and codes are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) if not otherwise specified.
 - Hunger multiplier info suggested and gathered by [@GGbong1000](https://www.youtube.com/@GGbong1000)!
 - Update announcement at https://youtube.com/shorts/jEHv6JpJ4QA
 
