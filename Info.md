@@ -1,4 +1,4 @@
-# Leveling Info
+# Leveling Bonuses
 ## Food Perks
 **<img height="15" alt="heart_favorite" src="https://github.com/user-attachments/assets/4a9a6290-bab7-4700-9be0-5183629c07f8" /> Favorite Food** +4 Friendship Points
 
@@ -21,6 +21,14 @@
 **<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** x15 Positive Friendship Points -5 Friendship Points
+
+## Table
+&nbsp;        |Dislikes|Likes a Little|Likes a Lot|Favorite Food|
+--------------|--------|--------------|-----------|-------------|
+**Full**      |   N/A  |    N/A       |  N/A      |  N/A        |
+**Peckish**   |   -1   |    +1        |  +2       |  +4         |
+**Hungry**    |   -1   |    +15       |  +30      |  +60        |
+**Starving**  |   -6   |    +10       |  +25      |  +55        |
 
 ---
 
@@ -49,7 +57,10 @@
 
 **<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
-<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** No level below Starving
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** forever
+- ∞ Minutes
+- ∞ Hours
+- ∞ Days
 
 ## Friendship Points per Level
 
