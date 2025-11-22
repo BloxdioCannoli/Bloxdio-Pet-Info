@@ -28,7 +28,23 @@
 
 **<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
 <img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" />
-<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** x15 Positive Friendship Points -5 Friendship Points
+<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving** x15 Positive Friendship Points -5 Friendship Points per 3 hours, capped at -1 Friendship Level
+
+## Starving Multipliers
+> Thank you to [@slushiegoose](https://discord.com/users/131131701148647424) (the BloxdDev) for providing the information in this section
+
+If a pet is fed after they are starving, you loose 5 Friendship points per 3 hours of abandonment. You can not loose enough points to go down a level.
+
+To calculate `Points Lost`, simply use one of these equations:
+- `weeks/7/24 / 3`
+- `days/24 / 3`
+- `hours / 3`
+- `minutes*60 / 3`
+- `seconds*60*60 / 3`
+
+And make sure to remember:
+- You will not loose a friendship level
+- If `Points Lost` is less than 1, `Points Lost` becomes 1
 
 ## Friendship Points Table
 > [!NOTE]
@@ -39,7 +55,8 @@
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /> Full**      |   N/A  |    N/A       |  N/A      |  N/A        |
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Peckish**   |   -1   |    +1        |  +2       |  +4         |
 **<img height="15" alt="apple" src="https://github.com/user-attachments/assets/541723ca-5955-43c1-a62b-8587ca4618e8" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Hungry**    |   -1   |    +15       |  +30      |  +60        |
-**<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving**  |   -6   |    +10       |  +25      |  +55        |
+**<img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /><img height="15" alt="apple_gray" src="https://github.com/user-attachments/assets/027e9410-4b16-4e15-b68d-110484f584c3" /> Starving**  |   -1 - Points Lost*   |    +15 - Points Lost       |  +30 - Points Lost      |  +60 - Points Lost        |
+###### To determine `Points Lost`, use one of the above equations.
 
 ---
 
