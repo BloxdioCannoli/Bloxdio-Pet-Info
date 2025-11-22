@@ -1,5 +1,3 @@
-> hunger update in progress
-
 > [!IMPORTANT]
 > Thank you to [@GGbong1000](https://www.youtube.com/@GGbong1000) for providing info for the hunger multipliers!<br>
 > Thank you to [@slushiegoose](https://discord.com/users/131131701148647424) (the BloxdDev) for providing info for the hunger data!
