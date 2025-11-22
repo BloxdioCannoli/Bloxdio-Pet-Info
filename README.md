@@ -1,5 +1,8 @@
+> hunger update in progress
+
 > [!IMPORTANT]
-> Thank you to [@GGbong1000](https://www.youtube.com/@GGbong1000) for providing info for the hunger multipliers!
+> Thank you to [@GGbong1000](https://www.youtube.com/@GGbong1000) for providing info for the hunger multipliers!<br>
+> Thank you to [@slushiegoose](https://discord.com/users/131131701148647424) (the BloxdDev) for providing info for the hunger data!
 
 > [!NOTE]
 > Use this to study the perks of pets before taming and maximize your friendship levels!
@@ -30,6 +33,7 @@ In the video: Mention my channel (no @ needed) and my docs for more than 5 secon
 - All videos in `Info.md` are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/).
 - All information and codes are by [Bloxdio Cannoli](https://www.youtube.com/channel/UCxf8WF6JNEIGCyb9hpfIITg/) if not otherwise specified.
 - Hunger multiplier info suggested and gathered by [@GGbong1000](https://www.youtube.com/@GGbong1000)!
+- Hunger loss data given [@slushiegoose](https://discord.com/users/131131701148647424) (the BloxdDev)!
 - Update announcement at https://youtube.com/shorts/jEHv6JpJ4QA
 
 
