@@ -36,11 +36,11 @@
 If a pet is fed after they are starving, you loose 5 Friendship points per 3 hours of abandonment. You can not loose enough points to go down a level.
 
 To calculate `Points Lost`, simply use one of these equations:
-- `weeks/7/24 / 3`
-- `days/24 / 3`
+- `weeks*7*24 / 3`
+- `days*24 / 3`
 - `hours / 3`
-- `minutes*60 / 3`
-- `seconds*60*60 / 3`
+- `minutes/60 / 3`
+- `seconds/60/60 / 3`
 
 And make sure to remember:
 - You will not loose a friendship level
