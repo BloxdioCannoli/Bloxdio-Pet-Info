@@ -57,6 +57,7 @@ function getCaughtMobPetInfo(myId, setting) {
 # Get max pet
 > [!WARNING]
 > You must define the `setCaughtMobPetInfo` function *and* hold the caught mob of your choice
+> 
 > You need to feed the mob to activate the perks
 ```js
 setCaughtMobPetInfo(myId, "friendshipPoints", 10000000) // Max friendship level
