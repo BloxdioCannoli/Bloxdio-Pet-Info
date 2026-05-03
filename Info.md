@@ -43,7 +43,7 @@ To calculate `Points Lost`, simply use one of these equations:
 - `seconds/60/60 / 3`
 
 And make sure to remember:
-- You will not loose a friendship level
+- You will not lose a friendship level
 - If `Points Lost` is less than 1, `Points Lost` becomes 1
 
 ## Friendship Points Table
