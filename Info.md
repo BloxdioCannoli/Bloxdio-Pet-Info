@@ -33,7 +33,7 @@
 ## Starving Multipliers
 > Thank you to [@slushiegoose](https://discord.com/users/131131701148647424) (the BloxdDev) for providing the information in this section
 
-If a pet is fed after they are starving, you loose 5 Friendship points per 3 hours of abandonment. You can not loose enough points to go down a level.
+If a pet is fed after they are starving, you lose 5 Friendship points per 3 hours of abandonment. You can not lose enough points to go down a level.
 
 To calculate `Points Lost`, simply use one of these equations:
 - `weeks*7*24 / 3`
