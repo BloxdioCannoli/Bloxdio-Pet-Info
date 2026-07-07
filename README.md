@@ -21,7 +21,7 @@ All of the information here can be discovered by playing Bloxd. Feel free to use
 ## Additional Notes:
 If using specific sections, you are also required to credit the contributer for that section. If no contributer is listed in that section, I have contributed and no additional credit is needed.
 
-## To give credit:
+## It is recommended to give credit like this:
 In the title, description, and/or pinned comment: @mention my channel, link to these docs
 **or**
 In the video: Mention my channel (no @ needed) and my docs for more than 5 seconds - or for the duration of the video - in clear typeface and font. 
